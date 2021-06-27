@@ -54,9 +54,9 @@ namespace Server
         public static int GetMaxAmount(VirtueName virtue) =>
             virtue switch
             {
-                VirtueName.Honor     => 20000,
+                VirtueName.Honor => 20000,
                 VirtueName.Sacrifice => 22000,
-                _                    => 21000
+                _ => 21000
             };
 
         public static bool Award(Mobile from, VirtueName virtue, int amount, ref bool gainedPath)
