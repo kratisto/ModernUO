@@ -176,7 +176,7 @@ namespace Server
 
     public static class CommandSystem
     {
-        public static string Prefix { get; set; } = "[";
+        public static string Prefix { get; set; } = ".";
 
         public static Dictionary<string, CommandEntry> Entries { get; } = new(StringComparer.OrdinalIgnoreCase);
 

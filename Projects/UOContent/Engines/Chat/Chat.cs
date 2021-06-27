@@ -6,7 +6,7 @@ namespace Server.Engines.Chat
 
         public static void Configure()
         {
-            Enabled = ServerConfiguration.GetOrUpdateSetting("chat.enabled", false);
+            Enabled = ServerConfiguration.GetOrUpdateSetting("chat.enabled", true);
         }
 
         public static void SendCommandTo(Mobile to, ChatCommand type, string param1 = null, string param2 = null)
