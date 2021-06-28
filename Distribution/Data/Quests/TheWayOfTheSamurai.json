@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1078015,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": true,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.TheWayOfTheSamurai",
+  "Title": {
+    "Number": 1078007,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1078010,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1078011,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1078012,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1078014,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1078013,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

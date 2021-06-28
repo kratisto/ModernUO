@@ -1,0 +1,38 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": false,
+  "Objectives": [],
+  "ObjectiveType": "All",
+  "Rewards": [],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.HumanInNeed",
+  "Title": {
+    "Number": 1075011,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 0,
+    "IsEmpty": true
+  },
+  "RefusalMessage": {
+    "Number": 0,
+    "IsEmpty": true
+  },
+  "InProgressMessage": {
+    "Number": 0,
+    "IsEmpty": true
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

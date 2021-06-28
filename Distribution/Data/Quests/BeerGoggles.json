@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074282,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": true,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.BeerGoggles",
+  "Title": {
+    "Number": 1073895,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074085,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1073921,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1073941,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1073971,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

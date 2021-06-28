@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1077675,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": true,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.TheArtOfWar",
+  "Title": {
+    "Number": 1077667,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1077670,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1077671,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1077672,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1077674,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1077673,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

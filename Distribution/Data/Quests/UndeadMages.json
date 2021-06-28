@@ -1,0 +1,50 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1072583,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.UndeadMages",
+  "Title": {
+    "Number": 1073080,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1073570,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1073580,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1073590,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

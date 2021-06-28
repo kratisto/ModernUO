@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1072341,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": false,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.ProofOfTheDeed",
+  "Title": {
+    "Number": 1072339,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1072340,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072342,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072343,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1072344,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1077627,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": true,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.DefyingTheArcane",
+  "Title": {
+    "Number": 1077621,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1077623,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1077624,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1077632,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1077626,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1077625,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

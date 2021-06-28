@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1075345,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": true,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.AFathersGratitude",
+  "Title": {
+    "Number": 1075343,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1075344,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1075346,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1075347,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1075348,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

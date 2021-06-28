@@ -1,0 +1,50 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1072806,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": true,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.DefendingTheHerd",
+  "Title": {
+    "Number": 1072785,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1072825,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072826,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072827,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

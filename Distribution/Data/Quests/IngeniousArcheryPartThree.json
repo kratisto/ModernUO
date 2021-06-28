@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074282,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": true,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.IngeniousArcheryPartThree",
+  "Title": {
+    "Number": 1073880,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074070,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1073921,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1073926,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1073968,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1073967,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

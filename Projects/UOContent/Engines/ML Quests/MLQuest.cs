@@ -71,7 +71,9 @@ namespace Server.Engines.MLQuests
         public virtual bool RecordCompletion => OneTimeOnly || HasRestartDelay;
 
         public virtual bool IsChainTriggered => false;
-        public virtual Type NextQuest => null;
+        public virtual String NextQuest => null;
+
+        public virtual String CurrentQuest => null;
 
         public TextDefinition Title { get; set; }
 

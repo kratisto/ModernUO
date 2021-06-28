@@ -1,0 +1,51 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 0,
+        "String": "Gold",
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": true,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.EscortToNHBank",
+  "Title": {
+    "Number": 1072325,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1042784,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072288,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072337,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

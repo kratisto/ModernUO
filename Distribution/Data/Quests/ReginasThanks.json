@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1075400,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": true,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.ReginasThanks",
+  "Title": {
+    "Number": 1075398,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1075399,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1075401,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1075402,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1075403,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

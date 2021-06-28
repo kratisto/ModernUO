@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1077694,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": true,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.ThouAndThineShield",
+  "Title": {
+    "Number": 1077704,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1077707,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1077708,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1077709,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1077711,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1077710,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

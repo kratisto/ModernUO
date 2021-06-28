@@ -1,0 +1,63 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    },
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    },
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074634,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "NextQuest": "Server.Engines.MLQuests.Definitions.TuitionReimbursement",
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.ConvinceMe",
+  "Title": {
+    "Number": 1074629,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074630,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1074631,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1074632,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074633,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1073775,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

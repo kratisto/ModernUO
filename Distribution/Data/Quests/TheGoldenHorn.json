@@ -1,0 +1,55 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074876,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "NextQuest": "Server.Engines.MLQuests.Definitions.Bullish",
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.TheGoldenHorn",
+  "Title": {
+    "Number": 1074543,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074545,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1074538,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1074547,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074549,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

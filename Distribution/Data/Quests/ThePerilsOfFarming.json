@@ -1,0 +1,50 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1072706,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.ThePerilsOfFarming",
+  "Title": {
+    "Number": 1073664,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1073703,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1073733,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1073744,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": true,
+      "Duration": "01:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074875,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.HeaveHo",
+  "Title": {
+    "Number": 1074351,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074519,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1074521,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1074522,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074523,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

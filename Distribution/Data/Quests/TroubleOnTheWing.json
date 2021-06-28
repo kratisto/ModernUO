@@ -1,0 +1,50 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1072341,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.TroubleOnTheWing",
+  "Title": {
+    "Number": 1072371,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1072593,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072594,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072595,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074282,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": true,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.BatteredBucklers",
+  "Title": {
+    "Number": 1075511,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1075512,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1075514,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1075515,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1075516,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

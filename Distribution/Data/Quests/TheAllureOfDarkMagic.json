@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1078052,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": true,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.TheAllureOfDarkMagic",
+  "Title": {
+    "Number": 1078036,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1078039,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1078040,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1078041,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1078043,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1078042,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

@@ -1,0 +1,50 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1031608,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.CrackingTheWhipII",
+  "Title": {
+    "Number": 1074295,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074302,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1074314,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1074318,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

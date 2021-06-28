@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1075545,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": true,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.ThePenIsMightier",
+  "Title": {
+    "Number": 1075542,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1075543,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1075546,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1075547,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1075548,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

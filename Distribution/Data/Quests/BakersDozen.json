@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074282,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": true,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.BakersDozen",
+  "Title": {
+    "Number": 1075478,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1075479,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1075480,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072271,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1075481,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1078222,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": true,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.EyesOfARanger",
+  "Title": {
+    "Number": 1078211,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1078217,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1078218,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1078219,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1078221,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1078220,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

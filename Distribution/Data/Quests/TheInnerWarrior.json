@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1077695,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": true,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.TheInnerWarrior",
+  "Title": {
+    "Number": 1077696,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1077699,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1077700,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1077701,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1077703,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1077702,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

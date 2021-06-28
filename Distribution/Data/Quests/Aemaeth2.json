@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1075304,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": true,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.Aemaeth2",
+  "Title": {
+    "Number": 1075327,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1075328,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1075330,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1075331,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1075332,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1072341,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.BrotherlyLove",
+  "Title": {
+    "Number": 1072369,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1072585,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072587,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072588,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074579,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

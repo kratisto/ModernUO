@@ -1,0 +1,55 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": true,
+      "Duration": "00:10:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1075339,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "NextQuest": "Server.Engines.MLQuests.Definitions.AFathersGratitude",
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.SaveHisDad",
+  "Title": {
+    "Number": 1075337,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1075338,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1075340,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1075341,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1075342,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

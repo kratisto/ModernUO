@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1077602,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": true,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": true,
+  "RequiresCollection": false,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.StoppingTheWorld",
+  "Title": {
+    "Number": 1077597,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1077598,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1077599,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1077628,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1077626,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1077600,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

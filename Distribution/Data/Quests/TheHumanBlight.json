@@ -1,0 +1,66 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1031601,
+        "IsEmpty": false
+      }
+    },
+    {
+      "Name": {
+        "Number": 1031600,
+        "IsEmpty": false
+      }
+    },
+    {
+      "Name": {
+        "Number": 1031602,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.TheHumanBlight",
+  "Title": {
+    "Number": 1072757,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1072766,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072771,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072778,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074160,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

@@ -1,0 +1,70 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    },
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1031601,
+        "IsEmpty": false
+      }
+    },
+    {
+      "Name": {
+        "Number": 1031600,
+        "IsEmpty": false
+      }
+    },
+    {
+      "Name": {
+        "Number": 1031602,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.UnnaturalCreations",
+  "Title": {
+    "Number": 1072758,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1072780,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072771,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072779,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074167,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

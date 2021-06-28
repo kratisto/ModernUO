@@ -1,0 +1,63 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    },
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    },
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074634,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "NextQuest": "Server.Engines.MLQuests.Definitions.FoolingAernya",
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.YouScratchMyBack",
+  "Title": {
+    "Number": 1074608,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074609,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1074615,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1074616,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074617,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1073775,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

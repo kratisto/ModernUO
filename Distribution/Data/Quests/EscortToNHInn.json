@@ -1,0 +1,51 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 0,
+        "String": "Gold",
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": true,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.EscortToNHInn",
+  "Title": {
+    "Number": 1072321,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1042796,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072288,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072333,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1046258,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

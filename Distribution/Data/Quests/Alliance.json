@@ -1,0 +1,50 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1031607,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": false,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.Alliance",
+  "Title": {
+    "Number": 1074294,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074298,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1074311,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1074316,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1073775,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

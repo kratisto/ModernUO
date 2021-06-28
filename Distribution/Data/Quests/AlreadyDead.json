@@ -1,0 +1,55 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1074962,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": false,
+  "IsChainTriggered": true,
+  "NextQuest": "Server.Engines.MLQuests.Definitions.Eureka",
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.AlreadyDead",
+  "Title": {
+    "Number": 1074953,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1074959,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1074965,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1074971,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074994,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}

@@ -10,6 +10,9 @@ using Server.Items;
 using Server.Mobiles;
 using Server.Network;
 using Server.Utilities;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using Server.Json;
 
 namespace Server.Engines.MLQuests
 {
@@ -171,6 +174,7 @@ namespace Server.Engines.MLQuests
             CommandSystem.Register("SaveQuest", AccessLevel.Administrator, SaveQuest_OnCommand);
             CommandSystem.Register("SaveAllQuests", AccessLevel.Administrator, SaveAllQuests_OnCommand);
             CommandSystem.Register("InvalidQuestItems", AccessLevel.Administrator, InvalidQuestItems_OnCommand);
+            CommandSystem.Register("ExtractAllQuests", AccessLevel.Administrator, ExtractAllQuests_OnCommand);
 
             TargetCommands.Register(new ViewQuestsCommand());
             TargetCommands.Register(new ViewContextCommand());
@@ -237,6 +241,17 @@ namespace Server.Engines.MLQuests
             }
         }
 
+        [Usage("ExtractAllQuests"),
+ Description("Extract all statics quests")]
+        public static void ExtractAllQuests_OnCommand(CommandEventArgs e)
+        {
+            foreach(MLQuest mLQuest in MLQuestSystem.Quests.Values)
+            {
+                var jsonMLQuest = JsonSerializer.Serialize(mLQuest, JsonConfig.DefaultOptions);
+                File.WriteAllText("Data/Quests/"+mLQuest.GetType().Name + ".json",jsonMLQuest);
+            }
+        }
+            
         [Usage("SaveAllQuests [saveEnabled=true]"),
          Description("Allows serialization for all quests to be turned on or off.")]
         public static void SaveAllQuests_OnCommand(CommandEventArgs e)

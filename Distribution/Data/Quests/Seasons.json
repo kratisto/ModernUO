@@ -1,0 +1,54 @@
+{
+  "Deserialized": true,
+  "SaveEnabled": true,
+  "Activated": true,
+  "Objectives": [
+    {
+      "IsTimed": false,
+      "Duration": "00:00:00"
+    }
+  ],
+  "ObjectiveType": "All",
+  "Rewards": [
+    {
+      "Name": {
+        "Number": 1072803,
+        "IsEmpty": false
+      }
+    }
+  ],
+  "Instances": [],
+  "OneTimeOnly": false,
+  "HasRestartDelay": false,
+  "IsEscort": false,
+  "IsSkillTrainer": false,
+  "RequiresCollection": true,
+  "RecordCompletion": true,
+  "IsChainTriggered": false,
+  "CurrentQuest": "Server.Engines.MLQuests.Definitions.Seasons",
+  "Title": {
+    "Number": 1072782,
+    "IsEmpty": false
+  },
+  "Description": {
+    "Number": 1072802,
+    "IsEmpty": false
+  },
+  "RefusalMessage": {
+    "Number": 1072810,
+    "IsEmpty": false
+  },
+  "InProgressMessage": {
+    "Number": 1072811,
+    "IsEmpty": false
+  },
+  "CompletionMessage": {
+    "Number": 1074174,
+    "IsEmpty": false
+  },
+  "CompletionNotice": {
+    "Number": 1072273,
+    "IsEmpty": false
+  },
+  "Version": 0
+}
